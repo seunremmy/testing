@@ -1,0 +1,58 @@
+/*
+COLOR PALETTE 
+https://colors.co 
+#F7FF7 - almost white
+#343434 - dark gray -almost black 
+#2F3061  - blue daark 
+#FFE66D - yellow 
+#A1C6D7 - blue light 
+*/
+
+/* Global styles 
+---------------------*/
+body {
+  color: #343434;
+}
+
+img {
+  width: 300px; 
+}
+
+/* Profile
+------------*/
+header {
+  background-color: #2F3061;
+}
+
+
+/* Projects
+------------*/
+
+.projects {
+  background: #F7FFF7;
+}
+
+
+
+/* Work Experience
+------------*/
+
+.work-experience {
+  background-color: #A1C6D7 ;
+}
+
+
+/* Education
+------------*/
+
+
+
+/* Contact Info
+------------*/
+
+footer {
+  background: #343434;
+  color: #F7FFF7; 
+}
+
+

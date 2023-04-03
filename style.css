@@ -1,0 +1,21 @@
+body{
+    color: yellowgreen;
+}
+*{
+    color: black;
+}
+
+h1{
+    color: blue;
+}
+
+p{
+    font-style: italic;
+}
+
+header.btn:active{
+    background-color: brown;
+}
+.about .btn:active{
+    background-color: black;
+}

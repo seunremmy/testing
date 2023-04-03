@@ -1,0 +1,131 @@
+/*
+COLOR PALETTE 
+https://colors.co 
+#F7FF7 - almost white
+#343434 - dark gray -almost black 
+#2F3061  - blue daark 
+#FFE66D - yellow 
+#A1C6D7 - blue light 
+*/
+
+/* Global styles 
+---------------------*/
+
+body {
+  color: #343434;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+a {
+  color: #ffe66d; 
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 100px;
+  line-height: 1;
+ 
+}
+
+
+h2 {
+  font-size: 45px;
+}
+
+h1, h2 {
+   margin: 0;   
+}
+
+.content-wrap {
+  padding: 60px 0;
+}
+
+img {
+  width: 300px; 
+}
+
+.content-wrap {
+  width: 800px; 
+  margin: 0 auto;
+}
+
+/* Profile
+------------*/
+
+header {
+  background-color: #2F3061;
+  color:white;
+  text-align: center;
+}
+
+
+/* Projects
+------------*/
+.projects {
+  background: #eff5ef;
+  
+}
+
+.projects a {
+  color: white;
+}
+
+.projects .btn {
+  background-color: #2F3061;
+  text-decoration: none;
+  padding:8px; 
+  border-radius: 4px;
+  display: inline-block;
+}
+
+.projects .btn:hover{
+  background-color: slateblue;
+}
+
+.projects .btn:active{
+  background-color: black;
+
+}
+
+/* Work Experience
+------------*/
+
+.work-experience {
+  background-color: #A1C6D7 ;
+}
+
+
+
+/* Education
+------------*/
+
+
+
+/* Contact Info
+------------*/
+
+footer {
+  background: #343434;
+  color: 
+ #F7FFF7; 
+}
+
+.contact-list {
+  list-style-type: none;
+  padding: 0; 
+  display: flex;
+  justify-content: center;
+}
+
+.contact-list a {
+  padding: 15px; 
+  display: inline-block;
+}
+
